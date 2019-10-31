@@ -41,3 +41,5 @@ GitFlow is a collection of Git commands to provide many repository operations wi
  git flow init
  You'll have to answer a few questions regarding the naming conventions for your branches.
  It's recommended to use the default values.
+ 
+ ![alt text](initialize.png)
